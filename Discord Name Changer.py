@@ -12,6 +12,8 @@ print('Im not resposible for getting banned because of API abuse!')
 print('Im not resposible for getting banned because of API abuse!')
 print('Im not resposible for getting banned because of API abuse!')
 time.sleep(5)
+print("Opening Discord...")
+time.sleep(5)
 webbrowser.open('https://discord.com/login', new=2)
 
 color5 = lambda: os.system('color 5')
@@ -46,26 +48,25 @@ headers = {
 	    "Content-Type": "application/json",
 	    "authorization": f"{Token}",
 	    "user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9003 Chrome/91.0.4472.164 Electron/13.4.0 Safari/537.36"
+	    }
 
-}
+print("Press Ctrl + C to quit.")
+time.sleep(1)
+clear()
+print("Press Ctrl + C to quit..")
+time.sleep(1)
+clear()
+print("Press Ctrl + C to quit...")
+time.sleep(1)
+clear()
+
+
 while True:
 	for name in names:
 		payload = {"nick": name}
 		requests.request("PATCH", url, json=payload, headers=headers)
 		time.sleep(3)
-
-print(requests.text)
-
-while True:
-	print("Press Ctrl + C to quit.")
-	time.sleep(1)
-	clear()
-	print("Press Ctrl + C to quit..")
-	time.sleep(1)
-	clear()
-	print("Press Ctrl + C to quit...")
-	time.sleep(1)
-	clear()
+		break
 
 
 
