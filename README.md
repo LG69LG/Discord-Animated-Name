@@ -25,4 +25,4 @@ If you enter an space after the ServerID or Token it wont work.
 Initial release
 
 ## Helpers
-Many small thanks to [Herolix](https://github.com/herolix)
+Many small thanks to [Herolix](https://github.com/herolix) <3 <3 <3 <3
