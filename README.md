@@ -20,7 +20,7 @@ If you enter an space after the ServerID or Token it wont work.
 
 ## Release Notes
 
-### 0.1.0
+### 1.0.1
 
 Initial release
 
