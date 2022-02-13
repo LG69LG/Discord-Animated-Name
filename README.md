@@ -1,5 +1,6 @@
 # Discord-Animated-Name
 Lets you animate your Discord Nickname on a Server. 
+![release](https://github.com/LG69LG/Discord-Animated-Name/releases)
 ### Warning: Im not resposible if you get banned because of API Abuse!
 
 ## Windows False Detection
