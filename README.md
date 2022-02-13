@@ -23,3 +23,6 @@ If you enter an space after the ServerID or Token it wont work.
 ### 0.1.0
 
 Initial release
+
+## Helpers
+Many small thanks to [Herolix](https://github.com/herolix)
