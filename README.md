@@ -6,7 +6,7 @@ Lets you animate your Discord Nickname on a Server.
 
 It got false detection, but I sent it in for review and it got approved:
 
-![image](https://user-images.githubusercontent.com/59141695/153754233-9c2b9a84-7a5d-480a-8fdb-6fd59c30dfbe.png)
+![image](https://user-images.githubusercontent.com/59141695/153756510-381d8c9c-efa7-4710-877e-5c6dd4f94b9a.png))
 ---------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/59141695/153754239-26704399-7dd1-4d77-9d76-552a8b1f19a1.png)
 
